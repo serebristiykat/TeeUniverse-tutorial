@@ -1,3 +1,5 @@
+![Pic](https://user-images.githubusercontent.com/57761255/110940257-a7703f00-8347-11eb-9e10-66e91c07c910.png)
+
 Let's say you made a map and now you need to add gaming zones.
 
 ## How to open a map in TeeUniverse Editor
