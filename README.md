@@ -56,7 +56,7 @@ There are hints for each subtype on the top of the view.
 
 ![Tools](https://user-images.githubusercontent.com/57761255/110870870-60019880-82de-11eb-8913-57dffb4463ad.png)
 
-For drawing use the left tool. Description of each tool at the bottom right.
+For drawing use the `Stamp Tool`. Description of each tool at the bottom right.
 
 ### Freeform zone
 
