@@ -83,7 +83,7 @@ For drawing use the `Stamp Tool`. Description of each tool at the bottom right.
 
 ![Background Layers](https://user-images.githubusercontent.com/57761255/110874181-5e3ad380-82e4-11eb-84e7-b4406aed69de.png)
 
-2. Name the group according to the zone (Infection Zone or Bonus Zone).
+2. Name the group according to the zone ('Infection Zone' or 'Bonus Zone').
 
 ### Tapes
 
@@ -145,7 +145,7 @@ There is no infected zone in TeeUniverse and you will have to create it yourself
 
 ![Zones Items](https://user-images.githubusercontent.com/57761255/110880933-79abdb80-82f0-11eb-9df6-96cd101c95cd.png)
 
-1. Select the zone group -> `Add Quad Layer`.
+1. Select the created group ('Infection Zone' or 'Bonus Zone') -> `Add Quad Layer`.
 2. Name a layer and select 'Infclass' image on the right panel
 
 ![Images selector](https://user-images.githubusercontent.com/57761255/110881185-fb9c0480-82f0-11eb-85c1-0cbc522e5ac6.png)
