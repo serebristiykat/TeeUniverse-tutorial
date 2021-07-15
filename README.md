@@ -165,3 +165,8 @@ There is no infected zone in TeeUniverse and you will have to create it yourself
 ![Flag on map](https://user-images.githubusercontent.com/57761255/110885267-9992cd80-82f7-11eb-9243-08b2ae76980b.png)
 
 Note: It is recommended to use a separate entity group for flags.
+
+## How to save the map
+
+- Choose `File` -> `Save package as` -> `Home` -> Your Folder
+
